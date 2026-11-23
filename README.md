@@ -17,7 +17,7 @@ This project has undergone a significant modernization effort to align with curr
 - **Versatile Output Methods:** Introduced new methods to stream reports to the browser, force downloads, save to a file, or get the content as a base64 string.
 
 ## Requirements
-- PHP 7.4 or higher
+- PHP 7.3 or higher
 - Composer for dependency management.
 
 The following PHP extensions are also required:
